@@ -2,4 +2,6 @@
 ## Example `<h2>` Header.
 ### Example `<h3>` Header.
 #### Example `<h4>` Header.
-Short, meanginful commit message.
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
