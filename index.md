@@ -21,3 +21,6 @@ continue
 
 data_list = [1,2,3]
 ```
+- [X] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [X] Introduce myself to the world
